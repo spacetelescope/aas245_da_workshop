@@ -11,6 +11,53 @@ Python Data Analysis with the James Webb and Roman Space Telescopes
 Tentative Schedule
 ------------------
 
+.. list-table::
+   :widths: 20 55 25
+   :header-rows: 1
+
+   * - Time (ET)
+     - Topic
+     - Presenter/Instructor
+   * - 9:00 - 9:30 am
+     - Installation Help, if needed
+     -
+   * - 9:30 - 9:40 am
+     - Jdaviz Overview
+     -
+   * - 9:45 - 10:15am
+     - Imviz
+     -
+   * - 10:15 - 10:45am
+     - Cubeviz
+     -
+   * - 10:45 - 11:00 am
+     - BREAK
+     -
+   * - 11:00 - 11:30 am
+     - Specviz/Specviz2d
+     -
+   * - 11:30 - 12:00 pm
+     - Explore together time
+     -
+   * - 12:00 - 1:00 pm
+     - LUNCH
+     -
+   * - 1:00 - 3:00 pm
+     - ASDF
+     -
+   * - 3:00 - 3:15pm
+     - BREAK
+     -
+   * - 3:15 - 4:00 pm
+     - ASDF/gwcs
+     -
+   * - 4:00 - 4:30 pm
+     - specreduce
+     -
+   * - 4:30 - 5:00 pm
+     - Photutils PSF photometry
+     -
+
 
 Description
 -----------
