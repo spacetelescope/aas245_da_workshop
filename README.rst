@@ -20,43 +20,46 @@ Tentative Schedule
      - Presenter/Instructor
    * - 9:00 - 9:30 am
      - Installation Help, if needed
-     -
-   * - 9:30 - 9:40 am
+     - Everybody
+   * - 9:30 - 9:45 am
      - Jdaviz Overview
-     -
-   * - 9:45 - 10:15am
+     - Cami Pacifici
+   * - 9:45 - 10:00am
      - Imviz
-     -
-   * - 10:15 - 10:45am
+     - Clare Shanahan
+   * - 10:00 - 10:15am
      - Cubeviz
-     -
-   * - 10:45 - 11:00 am
-     - BREAK
-     -
-   * - 11:00 - 11:30 am
+     - Jesse Averbukh
+   * - 10:15 - 10:30am
      - Specviz/Specviz2d
-     -
-   * - 11:30 - 12:00 pm
+     - Hatice Karatay
+   * - 10:30 - 11:00 am
+     - BREAK
+     - 30 minutes
+   * - 11:00 am - 12:00 pm
      - Explore together time
-     -
+     - Everybody
    * - 12:00 - 1:00 pm
      - LUNCH
-     -
-   * - 1:00 - 3:00 pm
+     - 1 hour
+   * - 1:00 - 2:30 pm
      - ASDF
      -
-   * - 3:00 - 3:15pm
-     - BREAK
-     -
-   * - 3:15 - 4:00 pm
+   * - 2:30 - 2:40 pm
+     - SHORT BREAK
+     - 10 minutes (could be 5 if preferred)
+   * - 2:40 - 3:40 pm
      - ASDF/gwcs
      -
+   * - 3:40 - 4:00 pm
+     - LONG BREAK
+     - 20 minutes
    * - 4:00 - 4:30 pm
-     - specreduce
-     -
+     - Specreduce
+     - Cami Pacifici
    * - 4:30 - 5:00 pm
      - Photutils PSF photometry
-     -
+     - Larry Bradley
 
 
 Description
