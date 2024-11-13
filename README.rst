@@ -34,26 +34,26 @@ Tentative Schedule
      - Specviz/Specviz2d
      - Hatice Karatay
    * - 10:30 - 11:00 am
-     - BREAK
-     - 30 minutes
+     - BREAK (30 minutes)
+     - 
    * - 11:00 am - 12:00 pm
      - Explore together time
      - Everybody
    * - 12:00 - 1:00 pm
-     - LUNCH
-     - 1 hour
+     - LUNCH (1 hour)
+     - 
    * - 1:00 - 2:30 pm
      - ASDF
      -
    * - 2:30 - 2:40 pm
-     - SHORT BREAK
-     - 10 minutes (could be 5 if preferred)
+     - SHORT BREAK (10 minutes...could be 5 if preferred)
+     - 
    * - 2:40 - 3:40 pm
      - ASDF/gwcs
      -
    * - 3:40 - 4:00 pm
-     - LONG BREAK
-     - 20 minutes
+     - LONG BREAK (20 minutes)
+     - 
    * - 4:00 - 4:30 pm
      - Specreduce
      - Cami Pacifici
