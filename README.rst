@@ -26,13 +26,13 @@ Tentative Schedule
    * - 9:30 - 9:45 am
      - Jdaviz Overview
      - Cami Pacifici
-   * - 9:45 - 10:00am
+   * - 9:45 - 10:00 am
      - Imviz
      - Clare Shanahan
-   * - 10:00 - 10:15am
+   * - 10:00 - 10:15 am
      - Cubeviz
      - Jesse Averbukh
-   * - 10:15 - 10:30am
+   * - 10:15 - 10:30 am
      - Specviz/Specviz2d
      - Hatice Karatay
    * - 10:30 - 11:00 am
