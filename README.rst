@@ -46,13 +46,13 @@ Tentative Schedule
      -
    * - 1:00 - 2:30 pm
      - ASDF
-     -
+     - Nadia Dencheva & Brett Graham
    * - 2:30 - 2:40 pm
-     - SHORT BREAK (10 minutes...could be 5 if preferred)
+     - SHORT BREAK (10 minutes)
      -
    * - 2:40 - 3:40 pm
      - ASDF/gwcs
-     -
+     - Nadia Dencheva & Brett Graham
    * - 3:40 - 4:00 pm
      - LONG BREAK (20 minutes)
      -
