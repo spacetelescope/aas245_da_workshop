@@ -2,11 +2,10 @@ from pathlib import Path
 from urllib.request import urlretrieve
 
 
-REMOTE_URL = "https://data.science.stsci.edu/redirect/Roman/Roman_Data_Workshop/"
+REMOTE_URL = "https://data.science.stsci.edu/redirect/Roman/Roman_Data_Workshop/AAS245/"
 REMOTE_PATHS = [
-    "ADASS2024/jwst.asdf",
-    "ExampleData/Build16/r0000101001001001001_0001_wfi01_cal.asdf",
-    "ExampleData/Build16/r00001_p_v01001001001_r274dp63x31y80_f158_coadd_i2d.asdf",
+    "jwst.fits",
+    "roman.asdf",
 ]
 
 LOCAL_DIRECTORY = Path(__file__).parent
