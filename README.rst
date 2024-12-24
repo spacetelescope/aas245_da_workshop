@@ -12,8 +12,8 @@ Gaylord National Resort & Convention Center
 Installation Instructions and Data
 ----------------------------------
 
-Installation instructions can be found in the [notebook
-da_workshop_setup.ipynb](https://github.com/spacetelescope/aas245_da_workshop/blob/main/da_workshop_setup.ipynb).
+Installation instructions can be found in the
+[notebook da_workshop_setup.ipynb](https://github.com/spacetelescope/aas245_da_workshop/blob/main/da_workshop_setup.ipynb).
 Follow the instructions at the beginning of the notebook to create the environment
 and clone the repository. Then execute the cells in the notebook to download the necessary data.
 Contact Cami Pacifici (cpacifici@stsci.edu) if you find any problems.
