@@ -6,6 +6,7 @@ REMOTE_URL = "https://data.science.stsci.edu/redirect/Roman/Roman_Data_Workshop/
 REMOTE_PATHS = [
     "jwst.fits",
     "roman.asdf",
+    "jw04291004001_13101_00001_nrs2_cal.fits",
 ]
 
 LOCAL_DIRECTORY = Path(__file__).parent
