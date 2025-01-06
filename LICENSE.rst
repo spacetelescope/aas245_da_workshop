@@ -1,4 +1,4 @@
-Copyright (c) 2024, Association of Universities for Research in
+Copyright (c) 2024-2025, Association of Universities for Research in
 Astronomy (AURA)
 
 Redistribution and use in source and binary forms, with or without
