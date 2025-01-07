@@ -1,0 +1,9 @@
+astroquery>=0.4.7dev9008
+jdaviz
+specreduce
+photutils [all] >= 2.1.0
+webbpsf
+lz4
+roman_datamodels==0.22.0
+jupyter
+jupyterlab
