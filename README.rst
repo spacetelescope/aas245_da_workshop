@@ -9,15 +9,16 @@ Gaylord National Resort & Convention Center
 * **TIME:** 9:00 am - 5:00 pm
 * **ROOM:** Chesapeake 4-5
 
-Installation Instructions and Data
-----------------------------------
 
-Installation instructions can be found in the notebook
-https://github.com/spacetelescope/aas245_da_workshop/blob/main/da_workshop_setup.ipynb.
-Follow the instructions at the beginning of the notebook
-to create the environment and clone the repository. Then execute the
-cells in the notebook to download the necessary data. Contact Cami
-Pacifici (cpacifici@stsci.edu) if you find any problems.
+PRE-WORKSHOP SETUP
+------------------
+
+Please be sure your laptop is properly configured before the
+workshop by following the `installation and setup instructions
+<install_and_setup/INSTALL.md>`_.
+
+These instructions include installing the software and downloading the
+data (~2.8 GB) needed for the workshop.
 
 
 Schedule
