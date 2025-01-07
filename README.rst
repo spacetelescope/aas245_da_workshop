@@ -9,6 +9,8 @@ Gaylord National Resort & Convention Center
 * **TIME:** 9:00 am - 5:00 pm
 * **ROOM:** Chesapeake 4-5
 
+AAS 245 Slack Channel: #workshop-python-data-analysis-with-the-james-webb-and-roman-space-telescopes
+
 
 PRE-WORKSHOP SETUP
 ------------------
