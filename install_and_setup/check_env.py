@@ -26,6 +26,8 @@ PKGS = {
     'specreduce': '1.4.1',
     'astroquery': '0.4.7dev9008',
     'webbpsf': '1.5.0',
+    'tweakwcs': '0.8.9',
+    'requests': '2.32.3',
     'roman_datamodels': '0.22.0',
 }
 

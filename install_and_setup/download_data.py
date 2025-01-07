@@ -1,11 +1,16 @@
+import os
 from pathlib import Path
 
+import requests
 from astroquery.mast import Observations
 
-LOCAL_DATA_PATH = "data"
+LOCAL_DATA_PATH = Path(__file__).parent.parent / "data"
+
+
+print(f"Downloading data to: {LOCAL_DATA_PATH}")
+
 directory = Path(LOCAL_DATA_PATH)
 directory.mkdir(parents=True, exist_ok=True)
-
 
 uri_list = [
     "mast:JWST/product/jw01227-c1002_t005_nircam_clear-f335m_i2d.fits",
@@ -23,5 +28,19 @@ for file in uri_list:
     result = Observations.download_file(file, cache=True,
                                         local_path=LOCAL_DATA_PATH)
     print(result)
+
+
+filename = "nircam_nrca1_f200w_fovp101_samp4_npsf16.fits"
+baseurl = "https://data.science.stsci.edu/redirect/JWST/jwst-data_analysis_tools/webbpsf_grid/"
+url = os.path.join(baseurl, filename)
+file_path = os.path.join(LOCAL_DATA_PATH, filename)
+
+if not os.path.exists(file_path):
+    response = requests.get(url)
+    with open(file_path, 'wb') as file:
+        file.write(response.content)
+        print(f"File saved as: {file_path}")
+else:
+    print(f"File already exists: {file_path}")
 
 print("All files downloaded!")
