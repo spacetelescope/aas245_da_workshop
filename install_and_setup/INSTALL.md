@@ -216,7 +216,7 @@ above, change directory to the top level `aas245_da_workshop` directory.
 Make sure the current directory in your terminal contains all the
 numbered notebook directories. Then start JupyterLab:
 
-    (da-workshop) % jupyter-lab
+    (da-workshop) % jupyter lab
 
 If successful, your browser would open a new page/tab pointing to
 `localhost` and show you a listing of the directory including all the
