@@ -163,7 +163,7 @@ actual package that you need to update.
 If it was installed with conda, you will see (the channel column might or
 might not be populated):
 
-    # packages in environment at .../miniconda/envs/astropy-env:
+    # packages in environment at .../miniconda/envs/da-workshop:
     #
     # Name                    Version                   Build  Channel
     packagename               X.Y.Z        py312hf484d3e_1000
@@ -171,7 +171,7 @@ might not be populated):
 Otherwise, if it was installed with pip, you will see the channel stating the
 name `pypi`:
 
-    # packages in environment at .../miniconda/envs/astropy-env:
+    # packages in environment at .../miniconda/envs/da-workshop:
     #
     # Name                    Version                   Build  Channel
     packagename               X.Y.Z                     pypi_0    pypi
@@ -187,7 +187,7 @@ Otherwise, to update with pip:
 The exception to this is if the `astroquery` package is reported as
 out-of-date, always update to its pre-release version with pip:
 
-    (astropy-env) % pip install astroquery --pre --upgrade
+    (da-workshop) % pip install astroquery --pre --upgrade
 
 
 ## 8. Download the Required Workshop Data
