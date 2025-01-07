@@ -58,3 +58,8 @@ distribute-*.tar.gz
 
 # Mac OSX
 .DS_Store
+
+# Downloaded or generated data
+data/*
+*.asdf
+asdf/data/*.fits
