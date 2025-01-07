@@ -8,8 +8,7 @@ If you have any problems with any of these steps, please
 check if your problem has already been reported at [the issue
 tracker](https://github.com/spacetelescope/aas245_da_workshop/issues)
 or on the AAS 245 Slack channel
-`workshop-python-data-analysis-with-the-james-webb-and-roman-space-teles
-copes`. If not, then you can create a new issue or ask on the Slack
+`#workshop-python-data-analysis-with-the-james-webb-and-roman-space-telescopes`. If not, then you can create a new issue or ask on the Slack
 channel.
 
 For the commands shown, `%` (and anything to the left of it) represents
@@ -117,8 +116,8 @@ to the terminal prompt: `(da-workshop) %`
 ## 6. Install the required packages and data
 
 All the required packages are specified in the
-[requirements.txt](https://github.com/spacetelescope/aas245_da_workshop/install_and_setup/requirements.txt) file.
-In a terminal, go to the directory where you cloned or downloaded the
+[requirements.txt](https://github.com/spacetelescope/aas245_da_workshop/blob/main/install_and_setup/requirements.txt)
+file. In a terminal, go to the directory where you cloned or downloaded the
 workshop repository, and then go to to `install_and_setup` directory:
 
     % cd <your_path_prefix>/aas245_da_workshop/install_and_setup
@@ -219,8 +218,9 @@ numbered notebook directories. Then start JupyterLab:
     (da-workshop) % jupyter lab
 
 If successful, your browser would open a new page/tab pointing to
-`localhost` and show you a listing of the directory including all the
-notebook subdirectories.
+`localhost`. Click on the folder icon at the upper left to open the file
+browser. You should see a list of directories for each of the notebook
+subdirectories.
 
 Double-click into one of the notebook directories such as `specreduce`.
 Then double-click on a notebook such as `specreduce.ipynb` and wait for
