@@ -213,7 +213,7 @@ In the terminal window you used with the conda environment created
 above, change directory to the top level `aas245_da_workshop` directory.
 
 Make sure the current directory in your terminal contains all the
-numbered notebook directories. Then start JupyterLab:
+notebook directories. Then start JupyterLab:
 
     (da-workshop) % jupyter lab
 
