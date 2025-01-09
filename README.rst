@@ -43,14 +43,14 @@ Schedule
      - Jdaviz Overview
      - Cami Pacifici
    * - 9:45 - 10:00 am
-     - Imviz
-     - Clare Shanahan
-   * - 10:00 - 10:15 am
-     - Cubeviz
-     - Jesse Averbukh
-   * - 10:15 - 10:30 am
      - Specviz/Specviz2d
      - Hatice Karatay
+   * - 10:00 - 10:15 am
+     - Imviz
+     - Clare Shanahan
+   * - 10:15 - 10:30 am
+     - Cubeviz
+     - Jesse Averbukh
    * - 10:30 - 11:00 am
      - BREAK (30 minutes)
      - on your own
