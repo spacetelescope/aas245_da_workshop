@@ -31,7 +31,7 @@ for file in uri_list:
 
 
 filename = "nircam_nrca1_f200w_fovp101_samp4_npsf16.fits"
-baseurl = "https://data.science.stsci.edu/redirect/JWST/jwst-data_analysis_tools/webbpsf_grid/"
+baseurl = "https://data.science.stsci.edu/redirect/JWST/jwst-data_analysis_tools/stpsf_grid/"
 url = os.path.join(baseurl, filename)
 file_path = os.path.join(LOCAL_DATA_PATH, filename)
 
