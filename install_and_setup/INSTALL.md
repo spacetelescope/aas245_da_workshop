@@ -126,21 +126,21 @@ Then install the required packages with:
 
     (da-workshop) % pip install -r requirements.txt
 
-The `webbpsf` package also requires the installation of data files
+The `stpsf` package also requires the installation of data files
 containing such information as the JWST pupil shape, instrument
-throughputs, and aperture positions. To run WebbPSF, you must download
-these files and tell WebbPSF where to find them using the `WEBBPSF_PATH`
+throughputs, and aperture positions. To run STPSF, you must download
+these files and tell STPSF where to find them using the `STPSF_PATH`
 environment variable.
 
-* Download the following file: [webbpsf-data-LATEST.tar.gz](https://stsci.box.com/shared/static/qxpiaxsjwo15ml6m4pkhtk36c9jgj70k.gz) (approx. 70 MB)
+* Download the following file: [stpsf-data-LATEST.tar.gz](https://stsci.box.com/shared/static/kqfolg2bfzqc4mjkgmujo06d3iaymahv.gz) (approx. 175 MB)
 
-* Untar `webbpsf-data-LATEST.tar.gz` into a directory of your choosing
-  and set the environment variable `WEBBPSF_PATH` to point to that
+* Untar `stpsf-data-LATEST.tar.gz` into a directory of your choosing
+  and set the environment variable `STPSF_PATH` to point to that
   directory. e.g., for bash/zsh:
 
-    $ export WEBBPSF_PATH=$HOME/data/webbpsf-data
+    $ export STPSF_PATH=$HOME/data/stpsf-data
 
-You should now be able to successfully `import webbpsf` in a Python session.
+You should now be able to successfully `import stpsf` in a Python session.
 
 
 ## 7. Check Installation

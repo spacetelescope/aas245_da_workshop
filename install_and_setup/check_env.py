@@ -25,7 +25,7 @@ PKGS = {
     'specutils': '1.19.0',
     'specreduce': '1.4.1',
     'astroquery': '0.4.7dev9008',
-    'webbpsf': '1.5.0',
+    'stpsf': '2.1.0',
     'tweakwcs': '0.8.9',
     'requests': '2.32.3',
     'roman_datamodels': '0.22.0',
@@ -46,9 +46,9 @@ def check_package(package_name, minimum_version=None, verbose=True):
             installed_version = pkg.__VERSION__
         else:
             installed_version = pkg.__version__
-        if (minimum_version is not None and
-                Version(installed_version) <
-                Version(str(minimum_version))):
+        if (minimum_version is not None
+                and Version(installed_version)
+                < Version(str(minimum_version))):
             print(f'Error: {package_name} version {minimum_version} or '
                   f'later is required, you have version {installed_version}')
             errors = True

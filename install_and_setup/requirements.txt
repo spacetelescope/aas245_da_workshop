@@ -2,8 +2,8 @@ astroquery>=0.4.7dev9008
 requests
 jdaviz
 specreduce
-photutils [all] >= 2.1.0
-webbpsf
+photutils[all]>=2.1.0
+stpsf
 tweakwcs
 lz4
 roman_datamodels==0.22.0
